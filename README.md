@@ -18,7 +18,7 @@ Projects
 ### Commands
 > npm i
 
-> npm server.js
+> node server.js
 
 ### APIs
 [http://localhost:8000/api/v1/trains/getAllTrains]() - Get All Trains
@@ -42,7 +42,7 @@ Projects
 
 > npm i
 
-> npm app.js
+> node app.js
 
 ### API's
 
