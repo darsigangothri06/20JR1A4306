@@ -23,7 +23,7 @@ Projects
 ### APIs
 [http://localhost:8000/api/v1/trains/getAllTrains]() - Get All Trains
 
-[http://localhost:8000/api/v1/getTrainById/id]() - Get Train By Id
+[http://localhost:8000/api/v1/trains/getTrainById/id]() - Get Train By Id
 
 ## Problem 2 File Structure
 
