@@ -21,10 +21,12 @@ Projects
 
 ### APIs
 [http://localhost:8000/api/v1/trains/getAllTrains]() - Get All Trains
+
 [http://localhost:8000/api/v1/getTrainById/id]() - Get Train By Id
 
 ## Problem 2 File Structure
 
+```
 2. Problem 2
  ┣ controllers
  ┃ ┗ numberController.js
@@ -33,8 +35,10 @@ Projects
  ┣ app.js
  ┣ package-lock.json
  ┗ package.json
+```
 
 ### Commands
+
 > npm i
 > npm app.js
 
